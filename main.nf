@@ -2879,7 +2879,6 @@ output:
 script:
 
 readArray_first_igblast = first_igblast.toString().split(' ')
-readArray_clone = clone.toString().split(' ')
 
 
 
